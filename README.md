@@ -6,4 +6,5 @@
 
 ![image](https://github.com/Nehal5623/E-commerce-food-website/assets/101036990/f027350d-d891-4f9a-a6c3-e066f871d01d)
 ![image](https://github.com/Nehal5623/E-commerce-food-website/assets/101036990/a13e9981-0163-4fdf-ab4a-1b0df158ac8d)
-![image](https://github.com/Nehal5623/E-commerce-food-website/assets/101036990/15e60574-c36b-467d-b65a-472acd80e4c4)
+![image](https://github.com/Nehal5623/E-commerce-food-website/assets/101036990/785221c8-b7ce-4015-b847-35f6cda75bf7)
+
